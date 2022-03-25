@@ -1,7 +1,7 @@
 ### Olá! eu sou o Fillip 👋
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fillip.hudson/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fillip-hudson-8455b5235/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNed-3fjCxUsPji3FC4Bi8g)
 
 ![Fillip GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFillip&show_icons=true&theme=dracula)
